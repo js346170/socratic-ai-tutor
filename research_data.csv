@@ -1,0 +1,27 @@
+session_id,timestamp,step_index,step_id,grade_level,problem_text,concepts_reviewed,knew_first_step,work_notes,completion_choice
+1791165c,2025-09-02T20:57:14,1,get_problem,11th grade micro,,,,,
+1791165c,2025-09-02T20:57:32,2,prime_ai,11th grade micro,ZXzXz,,,,
+1791165c,2025-09-02T20:57:47,3,concept_review,11th grade micro,ZXzXz,,,,
+1791165c,2025-09-02T20:57:56,4,first_step_strategy,11th grade micro,ZXzXz,,,,
+1791165c,2025-09-02T20:59:11,3,concept_review,11th grade micro,ZXzXz,,,,
+1791165c,2025-09-02T20:59:15,4,first_step_strategy,11th grade micro,ZXzXz,review 1 ,,,
+1791165c,2025-09-02T20:59:24,5,perform_work,11th grade micro,ZXzXz,review 1 ,"yes
+",,
+1791165c,2025-09-02T20:59:38,6,continue_or_complete,11th grade micro,ZXzXz,review 1 ,"yes
+",,
+1791165c,2025-09-02T20:59:48,4,first_step_strategy,11th grade micro,ZXzXz,review 1 ,"yes
+",,1
+1791165c,2025-09-02T21:00:11,5,perform_work,11th grade micro,ZXzXz,review 1 ,"yes
+",,1
+89657f33,2025-09-02T21:02:47,1,get_problem,11th grade micro,,,,,
+89657f33,2025-09-02T21:02:59,2,prime_ai,11th grade micro,Profit function ,,,,
+e0c9a33f,2025-09-02T21:09:29,1,get_problem,"11th grade ap micro
+",,,,,
+e0c9a33f,2025-09-02T21:09:35,2,prime_ai,"11th grade ap micro
+",zxcxz,,,,
+e0c9a33f,2025-09-02T21:09:50,3,concept_review,"11th grade ap micro
+",zxcxz,,,,
+e0c9a33f,2025-09-02T21:09:54,4,first_step_strategy,"11th grade ap micro
+",zxcxz,zxczxcxz,,,
+db7a2da1,2025-09-02T21:12:32,1,get_problem,11th grade micro,,,,,
+db7a2da1,2025-09-02T21:12:34,2,prime_ai,11th grade micro,asdsadas,,,,
