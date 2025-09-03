@@ -108,13 +108,13 @@ FIELDNAMES = [
 # -----------------------------
 # Helpers
 # -----------------------------
-def _yn(s: str | None):
+def _yn(s: str = None):
     s = (s or "").strip().lower()
     if s in {"y", "yes", "yeah", "yep", "1"}: return "yes"
     if s in {"n", "no", "nope", "0"}: return "no"
     return None
 
-def _choice3(s: str | None):
+def _choice3(s: str = None):
     s = (s or "").strip().lower()
     if s in {"1", "continue", "next", "c"}: return 1
     if s in {"2", "review", "r"}: return 2
