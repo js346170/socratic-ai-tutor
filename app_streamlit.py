@@ -6,6 +6,12 @@ from datetime import datetime
 import uuid
 import pandas as pd
 
+# Try to import keep_alive (will fail on Streamlit Cloud, but that's okay)
+try:
+    from keep_alive import start_keep_alive
+    start_keep_alive()
+except ImportError:
+    pass  # This is fine - keep_alive.py won't exist on Streamlit Cloud
 # -----------------------------
 # Flowchart definition
 # -----------------------------
